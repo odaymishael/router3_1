@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Sat Dec 04 13:24:05 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : router_sync
+Top-level Entity Name : router_sync
+Family : MAX V
+Total logic elements : 39
+Total pins : 25
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

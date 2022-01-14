@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/masha/OneDrive/Desktop
+vrouter_fifo
+Z0 !s110 1638995946
+!i10b 1
+!s100 Loj5SLFF@TY<<>F]MinFF1
+IYRB]?jzJFzN1XL56[i28e1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/masha/OneDrive/Desktop/my verilog/router/router_top/simulation
+Z3 w1638994086
+Z4 8C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\RTLcode\router_top.v
+Z5 FC:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\RTLcode\router_top.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1638995946.000000
+Z8 !s107 C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\RTLcode\router_top.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\RTLcode\router_top.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vrouter_fsm
+R0
+!i10b 1
+!s100 HR6=o42I^8:2aRSGQFfOT0
+IP^GFFj]NkbOznL28jW]511
+R1
+R2
+R3
+R4
+R5
+L0 151
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrouter_reg
+Z12 !s110 1638995947
+!i10b 1
+!s100 T7l]O`:`9O593;:50H<=D1
+ILK5I3:Z3L1;Rj[:D@_Oko2
+R1
+R2
+R3
+R4
+R5
+L0 468
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrouter_sync
+R0
+!i10b 1
+!s100 od^Nfi8UFP]n;PPb8hIN;2
+IYEDHA16Xa]<dzTE3aoTi92
+R1
+R2
+R3
+R4
+R5
+L0 280
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrouter_top
+R12
+!i10b 1
+!s100 oiO4l>JRF[L1?52S15m::1
+ILk[HPo:40j3El0n9CL:NM1
+R1
+R2
+R3
+R4
+R5
+L0 606
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrouter_top_tb
+R0
+!i10b 1
+!s100 E7K=8<X:7o5n?[c9dijFL3
+IXHD2c^ReK301YKABTMP@K1
+R1
+R2
+w1638995914
+8C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\testbench\router_top_tb.v
+FC:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\testbench\router_top_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\testbench\router_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\masha\OneDrive\Desktop\my verilog\router\router_top\testbench\router_top_tb.v|
+!i113 1
+R10
+R11

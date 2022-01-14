@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Sat Dec 04 21:49:26 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : router_fsm
+Top-level Entity Name : router_fsm
+Family : MAX V
+Total logic elements : 29
+Total pins : 22
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

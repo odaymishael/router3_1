@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Wed Dec 08 21:30:10 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : router_top
+Top-level Entity Name : router_top
+Family : MAX V
+Total logic elements : 923
+Total pins : 43
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

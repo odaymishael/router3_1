@@ -1,0 +1,15 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fsm/testbench/router_fsm_tb.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fsm/testbench/router_fsm_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_fsm_tb
+
+Top level modules:
+	router_fsm_tb
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fsm/RTLcode/router_fsm.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fsm/RTLcode/router_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_fsm
+
+Top level modules:
+	router_fsm
+
+} {} {}}

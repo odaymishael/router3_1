@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Wed Dec 08 20:58:56 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : router_fifo
+Top-level Entity Name : router_fifo
+Family : MAX V
+Total logic elements : 267
+Total pins : 24
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

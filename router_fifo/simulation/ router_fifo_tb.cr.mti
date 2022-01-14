@@ -1,0 +1,15 @@
+{C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fifo/RTLcode/router_fifo.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fifo/RTLcode/router_fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_fifo
+
+Top level modules:
+	router_fifo
+
+} {} {}} {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fifo/testbench/router_fifo_tb.v} {1 {vlog -work work -stats=none {C:/Users/masha/OneDrive/Desktop/my verilog/router/router_fifo/testbench/router_fifo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module router_fifo_tb
+
+Top level modules:
+	router_fifo_tb
+
+} {} {}}

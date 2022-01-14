@@ -1,0 +1,29 @@
+DEPTH=%d ,WIDTH=%d,ADDR=%d,fifo_count=%d,payloadlength=%b ,headerbyte=%b ,fifolocaton=%b,paritybyte=%b ,rd_ptr=%b,wr_ptr=
+
+
+initial $monitor(
+"clock=%b,resetn=%b,write_enb=%b,read_enb=%b,soft_reset=%b,lfd_state=%b,data_in=%b,full=%b,empty=%b,data_out=%b,DEPTH=%d ,fifo_count=%d,payloadlength=%b ,headerbyte=%b ,fifolocaton=%b,paritybyte=%b ,rd_ptr=%b,wr_ptr=%b"
+,clock,resetn,write_enb,read_enb,soft_reset,lfd_state,data_in,full,empty,data_out,fifo_count,payloadlength,headerbyte,fifolocaton,paritybyte,rd_ptr,wr_ptr  );
+ 
+
+
+clock ,resetn,detect_add,full_0,full_1,full_2,empty_0,empty_1,empty_2,read_enb_0,read_enb_1,read_enb_2,write_enb_reg,data_in,write_enb,fifo_full,soft_reset_0,soft_reset_1,soft_reset_2,vld_out_0,vld_out_1,vld_out_2);
+
+
+
+clock,resetn,pkt_valid,fifo_full,fifo_empty_0,fifo_empty_1,fifo_empty_2,soft_reset_0,soft_reset_1,soft_reset_2,parity_done,low_packet_valid,data_in,write_enb_reg,detect_add,lfd_state,laf_state,ld_state,full_state,rst_int_reg,busy
+
+
+
+
+clock,resetn,pkt_valid,fifo_full,detect_add,ld_state,laf_state,full_state,lfd_state,rst_int_reg,data_in,err,parity_done,low_packet_valid,dout
+
+clock=%b,resetn=%b,pkt_valid=%b,fifo
+_full=%b,detect_add=%b,ld_state=%b,laf_state=%b,full_state=%b,lfd_state=%b,rst_int_reg=%b,data_in=%b,err=%b,parity_done=%b,low_packet_valid=%b,dout=%b
+
+
+
+/*`include "C:\Users\masha\OneDrive\Desktop\my verilog\router\router_sync\RTLcode/router_sync.v" 
+`include "C:\Users\masha\OneDrive\Desktop\my verilog\router\router_fsm\RTLcode/router_fsm.v"
+`include "C:\Users\masha\OneDrive\Desktop\my verilog\router\router_reg\RTLcode/router_reg.v"
+`include "C:\Users\masha\OneDrive\Desktop\my verilog\router\router_fifo\RTLcode/router_fifo.v" */

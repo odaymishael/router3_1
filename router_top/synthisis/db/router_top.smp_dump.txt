@@ -1,0 +1,11 @@
+
+State Machine - |router_top|router_fsm:S3|state
+Name state.CHECK_PARITY_ERROR state.WAIT_TILL_EMPTY state.LOAD_AFTER_FULL state.FIFO_FULL_STATE state.LOAD_PARITY state.LOAD_DATA state.LOAD_FIRST_DATA state.DECODE_ADDRESS 
+state.DECODE_ADDRESS 0 0 0 0 0 0 0 0 
+state.LOAD_FIRST_DATA 0 0 0 0 0 0 1 1 
+state.LOAD_DATA 0 0 0 0 0 1 0 1 
+state.LOAD_PARITY 0 0 0 0 1 0 0 1 
+state.FIFO_FULL_STATE 0 0 0 1 0 0 0 1 
+state.LOAD_AFTER_FULL 0 0 1 0 0 0 0 1 
+state.WAIT_TILL_EMPTY 0 1 0 0 0 0 0 1 
+state.CHECK_PARITY_ERROR 1 0 0 0 0 0 0 1 
